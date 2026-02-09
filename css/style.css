@@ -1,0 +1,6 @@
+.morning {
+    visibility: visible;
+}
+
+@media (min-width: 1200px) {
+}
